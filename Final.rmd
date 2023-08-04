@@ -26,7 +26,7 @@ Males = filter(FinalData, sex =="Males")
 
 # Introduction
 
-A new  preventative vaccine (covid921) is under test in clinical trials. Given the nature of this vaccine it is suspected that the drug may exhibit different effectiveness across the variety of subpopulations tracked. Consider population subgroups by gender( guys and gals), drug use, and sexual orientation. Write a complete report that separately considers this drug for each subgroup and your recommendations as to whether people in the subgroup should take the vaccine. Structure your report in four sections each devoted to one of the four subgroups, use null and alternative hypothesis statements and correct statistical verbage when referencing p-values in conclusions..
+A new  preventative vaccine (covid921) is under test in clinical trials. Given the nature of this vaccine it is suspected that the drug may exhibit different effectiveness across the variety of subpopulations tracked. Consider population subgroups by gender( guys and gals), drug use, and sexual orientation. Write a complete report that separately considers this drug for each subgroup and your recommendations as to whether people in the subgroup should take the vaccine. Structure your report in four sections each devoted to one of the four subgroups, use null and alternative hypothesis statements and correct statistical verbage when referencing p-values in conclusions.
 
 ## Males
 
@@ -39,7 +39,9 @@ A new  preventative vaccine (covid921) is under test in clinical trials. Given t
 
 
 ## Druggies
+Null hypothesis (H0): there is no difference in the effictiveness of covid921 vaccine between druggies and non-druggies. Alternative Hypothesis(HA): There is a difference in the effectiveness of covid921 vaccine between druggies and no-druggies.
 
+statistical verbia: To test the hypothesis a chi-square will be conduted to analyze the association between druggies and vaccine effectiveness. The p-value threshold will be set at 0.05 for significance.
 
 # Overall Results and Conclusions
-Overall we got the result for the males, females, LGBTQ, Druggies on a new preventative vaccine covid921 we looked at information and typed about what i saw and the information i looked at and used it to answer the position for the males, female, LGBTQ, and Druggies and state the information .
+
