@@ -36,7 +36,7 @@ Method: A rondomized controlled trial was conducted to asses the efficacy of the
 Statistical analysis that the covid 921 vaccine demonstrates a significant increase in immune respone among males compare to placebo groups (p < 0.05). this indicayed that male who received the covid 921 vaccine are more likely to develop immunity against covid 291
 
 ## Females
-
+null Hypothesis (HO) the covid 921 vaccine does not differ in effectiveness between females and other sugroups. Alternative hypothesis (HA) The covid 921 vaccine exhibit varying effectiveness between female and other subgroup.
 
 ## LGBTQ
 Null hypothesis (HO): There is no diffference in the effectiveness of covid 921 vaccine between LGBTQ and non-LGBTQ individual. Alternative Hypothesis(HA): There is a difference in the effectiveness of covid921 vaccine between LGBTQ and non LGBTQ individual.
