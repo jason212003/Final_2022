@@ -35,7 +35,11 @@ A new  preventative vaccine (covid921) is under test in clinical trials. Given t
 
 
 ## LGBTQ
+Null hypothesis (HO): There is no diffference in the effectiveness of covid 921 vaccine between LGBTQ and non-LGBTQ individual. Alternative Hypothesis(HA): There is a difference in the effectiveness of covid921 vaccine between LGBTQ and non LGBTQ individual.
 
+Statistical verbiage: To test the hypothesis a logistic regession analysis will be conducted to assess the association between LGBTQ status and vaccine effectiveness. The p-value threshold will be set at 0.05 for significantly.
+
+based on the statical analysis conducted if the p-value is greater than 0,05 we fail ti reject the ull hypothesis suggesting insufficient evidence to conclude a difference. in the vaccine's effectiveness between LGBTQ and non-LGBTQ individuals. Therefore, it is recommended that both LGBTQ individuals take the covid921 vaccine.
 
 
 ## Druggies
@@ -43,5 +47,6 @@ Null hypothesis (H0): there is no difference in the effictiveness of covid921 va
 
 statistical verbia: To test the hypothesis a chi-square will be conduted to analyze the association between druggies and vaccine effectiveness. The p-value threshold will be set at 0.05 for significance.
 
+Based on the statistical analysis conducted, if the p-value is greater than 0.05 we fail to reject the null hypothesis, indicating insufficient evidence to conclude a difference in the vaccin's effectiveness between druggies and non-druggies take the covid921 vaccine
 # Overall Results and Conclusions
 
